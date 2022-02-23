@@ -279,7 +279,7 @@ and faculty members throughout the process.  Students are responsible for..."
         </form>
         <FormButton
           fullWidth
-          onClick={() => alert("now we send over the data")}
+          onClick={() => alert("now we send over the data.")}
         >
           Generate Syllabus
         </FormButton>
